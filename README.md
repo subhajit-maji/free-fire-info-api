@@ -1,5 +1,10 @@
 # 📊 Free Fire UID Info API
 
+[![Stars](https://img.shields.io/github/stars/subhajit-maji/free-fire-info-api?style=flat-square)](https://github.com/subhajit-maji/free-fire-info-api/stargazers)
+[![Forks](https://img.shields.io/github/forks/subhajit-maji/free-fire-info-api?style=flat-square)](https://github.com/subhajit-maji/free-fire-info-api/network/members)
+[![Issues](https://img.shields.io/github/issues/subhajit-maji/free-fire-info-api?style=flat-square)](https://github.com/subhajit-maji/free-fire-info-api/issues)
+[![License](https://img.shields.io/github/license/subhajit-maji/free-fire-info-api?style=flat-square)](https://github.com/subhajit-maji/free-fire-info-api/blob/main/LICENSE)
+
 ## 📝 Description
 
 This API allows you to **retrieve detailed information about a Free Fire account** using its `UID`. It provides data such as level, rank, guild information, credit score, profile, social preferences, and much more.
